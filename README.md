@@ -1,3 +1,3 @@
-# mini-alura-page
+# Mini Alura Ppage
 
 Demo: https://mini-alura-page.netlify.app/
